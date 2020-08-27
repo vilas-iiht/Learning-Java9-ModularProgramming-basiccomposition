@@ -10,7 +10,7 @@ public class JavaBasicCompositionTest {
 
     @DisplayName("Test Assignment2Test")
     @Test
-    void testGet() {
+    void testJavaBasicCompositionTest() {
 
     	Person person = new Person();
         long salary = person.getSalary();
